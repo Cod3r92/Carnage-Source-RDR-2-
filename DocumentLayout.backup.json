@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\ThirdParty\\JSON for Modern C\u002B\u002B\\json.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\ThirdParty\\JSON for Modern C\u002B\u002B\\json.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\script.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\script.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Options\\BoolOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\UI\\Options\\BoolOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\UI\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Options\\Option.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\UI\\Options\\Option.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Options\\EmptyOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\UI\\Options\\EmptyOption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\script.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\script.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\SubmenuInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\SubmenuInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\world.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\World\\world.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\World\\world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\weather.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\World\\weather.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\World\\time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\World\\time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\players.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Network\\players.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\players.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Network\\players.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\network.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Network\\network.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\network.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Network\\network.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Credits\\userinterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Credits\\userinterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Credits\\core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\Menu\\Base\\Submenus\\Main\\Credits\\core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Src\\common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Menu.cpp",
+              "RelativeDocumentMoniker": "Src\\UI\\Menu.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Menu.cpp",
+              "RelativeToolTip": "Src\\UI\\Menu.cpp",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:28:31.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Option.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Options\\Option.h",
+              "RelativeDocumentMoniker": "Src\\UI\\Options\\Option.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Options\\Option.h",
+              "RelativeToolTip": "Src\\UI\\Options\\Option.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:26:09.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmptyOption.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Options\\EmptyOption.h",
+              "RelativeDocumentMoniker": "Src\\UI\\Options\\EmptyOption.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Options\\EmptyOption.h",
+              "RelativeToolTip": "Src\\UI\\Options\\EmptyOption.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:26:07.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoolOption.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Options\\BoolOption.h",
+              "RelativeDocumentMoniker": "Src\\UI\\Options\\BoolOption.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\UI\\Options\\BoolOption.h",
+              "RelativeToolTip": "Src\\UI\\Options\\BoolOption.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:26:04.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "script.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\script.h",
+              "RelativeDocumentMoniker": "Src\\script.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\script.h",
+              "RelativeToolTip": "Src\\script.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:25:40.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "script.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\script.cpp",
+              "RelativeDocumentMoniker": "Src\\script.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\script.cpp",
+              "RelativeToolTip": "Src\\script.cpp",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAANkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:17:14.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\main.cpp",
+              "RelativeDocumentMoniker": "Src\\main.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\main.cpp",
+              "RelativeToolTip": "Src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:17:05.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "keyboard.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\keyboard.h",
+              "RelativeDocumentMoniker": "Src\\keyboard.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\keyboard.h",
+              "RelativeToolTip": "Src\\keyboard.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:16:48.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "json.hpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\ThirdParty\\JSON for Modern C\u002B\u002B\\json.hpp",
+              "RelativeDocumentMoniker": "Src\\ThirdParty\\JSON for Modern C\u002B\u002B\\json.hpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\ThirdParty\\JSON for Modern C\u002B\u002B\\json.hpp",
+              "RelativeToolTip": "Src\\ThirdParty\\JSON for Modern C\u002B\u002B\\json.hpp",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:12:46.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubmenuInclude.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\SubmenuInclude.h",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\SubmenuInclude.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\SubmenuInclude.h",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\SubmenuInclude.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:12:32.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "world.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\world.h",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\World\\world.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\world.h",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\World\\world.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:12:29.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "world.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\world.cpp",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\World\\world.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\world.cpp",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\World\\world.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:12:12.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "weather.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\weather.cpp",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\World\\weather.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\weather.cpp",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\World\\weather.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:11:46.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "time.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\time.h",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\World\\time.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\time.h",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\World\\time.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:11:44.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "time.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\time.cpp",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\World\\time.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\World\\time.cpp",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\World\\time.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:10:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "weapons.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.h",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.h",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:10:08.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "keyboard.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\keyboard.cpp",
+              "RelativeDocumentMoniker": "Src\\keyboard.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\keyboard.cpp",
+              "RelativeToolTip": "Src\\keyboard.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T01:58:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "weapons.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.cpp",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.cpp",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Weapons\\weapons.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:07:37.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "teleport.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.h",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.h",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:07:32.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "teleport.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.cpp",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.cpp",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Teleport\\teleport.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:04:42.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "locations.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.h",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.h",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:04:39.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "locations.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.cpp",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.cpp",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Teleport\\locations.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:04:37.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "players.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\players.h",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Network\\players.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\players.h",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Network\\players.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:00:49.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "players.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\players.cpp",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Network\\players.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\players.cpp",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Network\\players.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:00:12.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "network.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\network.h",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Network\\network.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\network.h",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Network\\network.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T02:00:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "network.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\network.cpp",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Network\\network.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Network\\network.cpp",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Network\\network.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T02:00:04.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "userinterface.h",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Credits\\userinterface.h",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Credits\\userinterface.h",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Credits\\userinterface.h",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Credits\\userinterface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-01T01:59:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "core.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Credits\\core.cpp",
+              "RelativeDocumentMoniker": "Src\\Menu\\Base\\Submenus\\Main\\Credits\\core.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\Menu\\Base\\Submenus\\Main\\Credits\\core.cpp",
+              "RelativeToolTip": "Src\\Menu\\Base\\Submenus\\Main\\Credits\\core.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T01:59:18.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "common.cpp",
+              "DocumentMoniker": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\common.cpp",
+              "RelativeDocumentMoniker": "Src\\common.cpp",
+              "ToolTip": "C:\\Users\\ssnov\\Downloads\\RDR 2 Carnage Source\\Source\\Src\\common.cpp",
+              "RelativeToolTip": "Src\\common.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-01T01:58:36.506Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
